@@ -4,59 +4,39 @@ Weather App
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+A 5 day forcast weather App, that will display the Temperture, Wind and Humidity of the chosen City.
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+N/A
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+N/A
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+Enter the city of your choosing and hit the search button or press enter to receive the 5 day expected weather forcast for that city. You can also just press the Button Use Current Location to instanty recieve the 5 day wather forcast for the area you are currently located.
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+If you recieve the error alert "No coordinates found for ${cityName} check spelling of city name and try again.
 
 ## Authors
 
-Contributors names and contact info
+Ben Langs
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+CodingNepal--https://www.codingnepalweb.com/
 
+youtube-https://www.youtube.com/watch?v=SeXg3AX82ig&t=1019s
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
+N/A
 ## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+N/A
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+CodingNepal
